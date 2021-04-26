@@ -546,6 +546,7 @@ address {
   text-transform: uppercase;
   padding-top: 12px;
   color: var(--baton-text-color);
+  margin-bottom: 20px;
 }
 /* 3 */
 .footer-input {
@@ -585,6 +586,9 @@ address {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 .footer-telegram {
+  margin-left: 10px;
+}
+.footer-item {
   margin-left: 10px;
 }
 /* Логотипи */
